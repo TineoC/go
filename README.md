@@ -26,7 +26,8 @@ go run main.go
 ### Output
 
 ```
-![project output](./image/README/1714658490723.png)
+![Project Output](https://github.com/TineoC/worldtech-test/blob/main/image/README/1714658490723.png "Project Output")
+
 ```
 
 ## Errors Fixed
