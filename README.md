@@ -8,7 +8,7 @@ Prerequisites:
 
 ```
 git clone git@github.com:TineoC/worldtech-test.git
-docker build -t worldtech-test
+docker build -t worldtech-test .
 docker run worldtech-test
 ```
 
@@ -19,7 +19,7 @@ Prerequisites:
 1. Have [Golang](https://go.dev/ 'Golang official docs') installed
 
 ```
-git@github.com:TineoC/worldtech-test.git
+git clone git@github.com:TineoC/worldtech-test.git
 go run main.go
 ```
 
